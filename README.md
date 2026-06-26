@@ -10,7 +10,7 @@ I am a student. At least during my final editing of this article. I like to deve
 
 ### Technologies
 
-![Qt](https://img.shields.io/badge/-Qt5-000?&logo=Qt)
+![Qt](https://img.shields.io/badge/-Qt6-000?&logo=Qt)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
